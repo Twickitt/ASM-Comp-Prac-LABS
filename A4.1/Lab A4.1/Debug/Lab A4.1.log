@@ -1,0 +1,6 @@
+﻿  Lab A4.1.cpp
+C:\Visual Studio 4 ASM\Comp Prac\A4.1\Lab A4.1.cpp(29,31): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Visual Studio 4 ASM\Comp Prac\A4.1\Lab A4.1.cpp(29,31): warning C4309: инициализация: усечение константного значения
+C:\Visual Studio 4 ASM\Comp Prac\A4.1\Lab A4.1.cpp(31,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Visual Studio 4 ASM\Comp Prac\A4.1\Lab A4.1.cpp(31,32): warning C4309: инициализация: усечение константного значения
+  Lab A4.1.vcxproj -> C:\Visual Studio 4 ASM\Comp Prac\A4.1\Debug\Lab A4.1.exe

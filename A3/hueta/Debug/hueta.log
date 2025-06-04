@@ -1,0 +1,4 @@
+﻿  hueta.cpp
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(40,21): error C2094: метка "check" не была определена
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(42,17): warning C4102: check_al_bl: неиспользованная метка
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(52,1): warning C4102: check_ah_bl: неиспользованная метка

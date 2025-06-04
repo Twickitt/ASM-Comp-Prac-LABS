@@ -1,0 +1,104 @@
+﻿  TaskA2.cpp
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(7,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,3): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,7): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,14): error C2065: Перемещаем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "z"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,37): error C2065: в: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,40): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "аккамулятор"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,40): error C2065: аккамулятор: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,63): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,66): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(9,63): error C3861: al: идентификатор не найден
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sbw"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,3): error C2065: sbw: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,8): error C2065: Расширяем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,27): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "до"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,27): error C2065: до: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,32): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "двойного"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,32): error C2065: двойного: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,49): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "слова"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,60): error C2065: ax: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(10,49): error C3861: слова: идентификатор не найден
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dec"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,3): error C2065: dec: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,7): error C2065: ax: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,30): error C3872: 0x2013: этот символ невозможно использовать в идентификаторе
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,11): error C2065: Вычислить: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,30): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "z–"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,30): error C2065: z–: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,35): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,38): error C2065: AX: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(11,35): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "imul"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,3): error C2065: imul: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "y"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,11): error C2065: Вычисляем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,30): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "y"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,30): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,40): error C2065: DX: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,42): error C2143: синтаксическая ошибка: отсутствие ")" перед ":"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,42): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,42): error C2059: синтаксическая ошибка: :
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(12,50): error C2059: синтаксическая ошибка: )
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,14): error C2065: Вычисляем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,33): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "младшее"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,33): error C2065: младшее: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,48): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "слово"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,48): error C2065: слово: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,59): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "числителя"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,59): error C2065: числителя: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,78): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "y"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,78): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(13,88): error C2065: ax: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,3): error C2065: add: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dx"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,7): error C2065: dx: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,14): error C2065: Вычисляем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,33): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "старшее"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,33): error C2065: старшее: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,48): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "слово"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,48): error C2065: слово: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,59): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "числителя"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(14,59): error C2065: числителя: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,3): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bx"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,7): error C2065: bx: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,11): error C2065: ax: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,15): error C2065: Сохраняем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,34): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "младшее"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,34): error C2065: младшее: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,49): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "слово"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,49): error C2065: слово: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,60): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "числителя"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(15,60): error C2065: числителя: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,3): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,7): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,14): error C2065: Перемещаем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,37): error C2065: в: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,40): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "аккамулятор"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,40): error C2065: аккамулятор: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,63): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,66): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(18,63): error C3861: al: идентификатор не найден
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sbw"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,3): error C2065: sbw: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,8): error C2065: Превращаем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,29): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,29): error C2065: в: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,32): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "двойное"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,32): error C2065: двойное: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,47): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "слово"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,58): error C2065: ax: необъявленный идентификатор
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(19,47): error C3861: слово: идентификатор не найден
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(20,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Visual Studio 4 ASM\TaskA2\TaskA2.cpp(20,3): error C1003: число ошибок превышает 100; остановка компиляции

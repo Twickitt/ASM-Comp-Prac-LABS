@@ -1,0 +1,104 @@
+﻿  hueta.cpp
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(19,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(20,13): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(20,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(20,17): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(21,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(21,13): error C2065: sub: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(21,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(21,17): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(22,13): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(22,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ah"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(22,17): error C2065: ah: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(23,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(23,13): error C2065: sub: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(23,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ah"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(23,17): error C2065: ah: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(24,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(24,13): error C2065: sub: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(24,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(24,17): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(24,21): error C2065: ah: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(25,13): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(25,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(25,17): error C2065: bl: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(26,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(26,13): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(26,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bh"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(26,17): error C2065: bh: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(27,13): error C2065: sub: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(27,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(27,17): error C2065: bl: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(27,21): error C2065: bh: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(28,13): error C2065: sub: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(28,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(28,17): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(28,21): error C2065: bl: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(29,13): error C2065: cmp: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(29,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(29,17): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "je"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,13): error C2065: je: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "process_replacement"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,16): error C2065: process_replacement: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,37): error C2065: Если: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "разница"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,46): error C2065: разница: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,61): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "разностей"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,61): error C2065: разностей: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,86): error C2065: идем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,95): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "к"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,95): error C2065: к: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,98): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "замене"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(30,98): error C2065: замене: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(31,13): error C2065: cmp: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(31,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(31,17): error C2065: al: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "je"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,13): error C2065: je: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "process_replacement"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,16): error C2065: process_replacement: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,37): error C2065: Если: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "разница"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,46): error C2065: разница: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,61): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "разностей"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,61): error C2065: разностей: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,87): error C2065: тоже: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,96): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "заменяем"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(32,96): error C2065: заменяем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,13): error C2065: jmp: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "replace_all"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,17): error C2065: replace_all: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,30): error C2065: Если: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "разницы"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,39): error C2065: разницы: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,54): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "разностей"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,54): error C2065: разностей: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,73): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "нет"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,73): error C2065: нет: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,81): error C2065: заменяем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,98): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "все"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,98): error C2065: все: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,105): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "на"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,105): error C2065: на: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(33,110): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(35,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "process_replacement"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,15): error C2065: Определяем: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,36): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "максимальную"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,36): error C2065: максимальную: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,61): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "и"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,61): error C2065: и: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,64): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "минимальную"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,64): error C2065: минимальную: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,87): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "цифры"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(36,87): error C2065: цифры: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(37,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(37,17): error C2065: mov: необъявленный идентификатор
+C:\Visual Studio 4 ASM\hueta\hueta.cpp(37,17): error C1003: число ошибок превышает 100; остановка компиляции
